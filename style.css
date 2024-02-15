@@ -57,3 +57,9 @@ button{
     font-family: "Cabin", sans-serif;
 
 }
+
+.presentacion{
+    color: white;
+    display: flex;
+    margin-right: 30px;
+}
